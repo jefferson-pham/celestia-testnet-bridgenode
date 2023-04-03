@@ -1,1 +1,1 @@
-# celestia-testnet-bridgenode
+# Celestia Bridge node Guide
